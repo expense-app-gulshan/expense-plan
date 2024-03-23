@@ -4,7 +4,6 @@ import com.gulshan.expenseplan.dto.PlanRequest;
 import com.gulshan.expenseplan.dto.PlanResponse;
 import com.gulshan.expenseplan.service.PlanService;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
