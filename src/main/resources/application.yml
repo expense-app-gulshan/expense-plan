@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: expense-plan
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/expense-plan
